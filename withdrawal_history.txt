@@ -1,0 +1,13 @@
+AccountNumber:12345678 Withdraw:40000 Balance:41000 Description:Deposit of 40000 Time:15:49:59
+AccountNumber:12345678 Withdraw:15000 Balance:26000 Description:Withdrawal of 15000 Time:15:50:32
+AccountNumber:12345678 Withdraw:11000 Balance:15000 Description:Withdrawal of 11000 Time:15:50:46
+AccountNumber:12345678 Withdraw:5000 Balance:10000 Description:Withdrawal of 5000 Time:15:51:17
+AccountNumber:12345678 Withdraw:10000 Balance:0 Description:Withdrawal of 10000 Time:16:07:29
+AccountNumber:12345678 Withdraw:20000 Balance:20000 Description:Deposit of 20000 Time:16:07:41
+AccountNumber:12345678 Withdraw:15000 Balance:5000 Description:Withdrawal of 15000 Time:16:08:14
+AccountNumber:12345678 Withdraw:30000 Balance:30000 Description:Deposit of 30000 Time:16:10:16
+AccountNumber:12345678 Withdraw:15000 Balance:15000 Description:Withdrawal of 15000 Time:16:10:23
+AccountNumber:12345678 Withdraw:10000 Balance:5000 Description:Withdrawal of 10000 Time:16:10:37
+AccountNumber:12345678 Withdraw:25000 Balance:30000 Description:Deposit of 25000 Time:16:26:19
+AccountNumber:12345678 Withdraw:15000 Balance:15000 Description:Withdrawal of 15000 Time:16:26:30
+AccountNumber:12345678 Withdraw:10000 Balance:5000 Description:Withdrawal of 10000 Time:16:26:47
